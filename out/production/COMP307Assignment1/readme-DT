@@ -1,0 +1,11 @@
+Part 2: Decision Tree Learning Method(35 Marks for COMP307, and 38 Marks for AIML420)
+
+This part involves writing a program that implements a simple version of the Decision Tree (DT) learning
+algorithm, reporting the results, and discussing your findings.
+
+How to run code:
+
+- run the Main class
+- type '2' into the input -> 2
+- please ENTER the two file names in which to test. with the training name first. -> hepatitis-training hepatitis-test
+- results will then show from the data

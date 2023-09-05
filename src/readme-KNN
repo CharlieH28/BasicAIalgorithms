@@ -1,0 +1,11 @@
+Part 1: k-Nearest Neighbour Method(30 Marks for COMP307, and 37 Marks for AIML420)
+
+In this part you will implement the k-Nearest Neighbour method, and evaluate it on the wine data set described
+below. Additional questions on k-means and k-fold cross validation need to be answered/discussed.
+
+How to run code:
+
+- run the Main class
+- type '1' into the input -> 1
+- please ENTER the two file names in which to test. with the training name first. -> wine-training wine-test
+- results will then show from the data

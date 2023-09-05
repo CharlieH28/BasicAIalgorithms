@@ -1,0 +1,11 @@
+Part 3: Perceptron (35 Marks for COMP307, and 45 Marks for AIML420)
+
+This part of the assignment involves writing a program that implements a perceptron that learns to distinguish
+between two classes of radar data for the ionosphere data set.
+
+How to run code:
+
+- run the Main class
+- type '3' into the input -> 3
+- please ENTER the file name in which to test. -> ionosphere.data
+- results will then show from the data
